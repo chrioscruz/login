@@ -1,0 +1,12 @@
+.box {
+  width: 500px;
+  border: 5px solid dodgerblue;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
+.title{
+  width: auto;
+  background: cornflowerblue;
+  text-align: justify-all;
+}

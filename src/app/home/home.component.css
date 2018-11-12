@@ -1,0 +1,14 @@
+.box{
+  width: auto;
+  margin: auto;
+  text-align: center;
+  background-color: lightseagreen;
+  padding: 80px 80px 80px 80px ;
+}
+.title{
+  font-family: Meera
+}
+.form{
+  background-color: white;
+  padding: 80px 80px 80px 80px
+}
